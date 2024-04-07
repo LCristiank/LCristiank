@@ -2,7 +2,7 @@
  
 <table>
  <tr><td><a href="README-en.md" ><img src="./assets/US_flag.png" alt="US flag" width="24px" > English ;</a></td></tr>
- <tr><td><a href="https://github.com/CristianDeveloperk"><img src="./assets/Brazil_flag.png" alt="Brazil flag" width="24px"> Portuguese ;</a></td></tr>
+ <tr><td><a href="https://github.com/LCristiank"><img src="./assets/Brazil_flag.png" alt="Brazil flag" width="24px"> Portuguese ;</a></td></tr>
 </table>
 
   
