@@ -76,7 +76,7 @@
   <div>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
     <ul>
-      <li>🤓 Estudando TyperScript, Nest, PHP, NodeJS e inglês;</li>
+      <li>🤓 Estudando PHP, NodeJS, Express, Nest e inglês;</li>
       <li>🔎 Meu objetivo como programador é aprender e me desafiar no campo da programação, me permitindo desenvolver e me tornar um grande programador;</li>
       <li>💙 Eu amo Python 🐍;</li>
       <li>🧠 "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill</li>
