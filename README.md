@@ -11,13 +11,15 @@
         <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3&pause=1000&color=533CFF&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Luan+Cristian" alt="Luan Cristian" /></a>
       </p>
       <p align="center">
-        <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&pause=1000&color=533CFF&center=true&vCenter=true&width=490&height=30&lines=Olá+Mundo!+🌎;Bem-vindo+ao+meu+perfil!+👥;Sou+desenvolvedor+FullStack;Apaixonado+por+programação." alt="Typing SVG" /></a>
+        <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&pause=1000&color=533CFF&center=true&vCenter=true&width=490&height=30&lines=Olá+Mundo!+🌎;Bem-vindo+ao+meu+perfil!+👥;Apaixonado+por+programação." alt="Typing SVG" /></a>
       </p>
     </div>
   </header>
 
   <details open id="stats"> 
-      <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=220&height=25&lines=%F0%9F%93%8A+Estatisticas+Github" alt="Typing SVG" /></a></summary>
+      <summary>
+        <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=220&height=25&lines=%F0%9F%93%8A+Estatisticas+Github" alt="Typing SVG" /></a>
+      </summary>
    
    <table style="border:none;margin:0 auto">
       <tr style="border:none;">
@@ -44,17 +46,9 @@
    <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo JavaScript"  />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Logo React"  />
-      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo HTML5"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo CSS3"  />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" />
       <img width="12" />
     </div>
     <div align="center">
@@ -76,9 +70,8 @@
   <div>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
     <ul>
-      <li>🤓 Estudando PHP, NodeJS, Express, Nest e inglês;</li>
-      <li>🔎 Meu objetivo como programador é aprender e me desafiar no campo da programação, me permitindo desenvolver e me tornar um grande programador;</li>
-      <li>💙 Eu amo Python 🐍;</li>
+      <li>🤓 Estudando Java, Front-end e inglês;</li>
+      <li>💻 Cursando Desenvolvimento de Sistema no SENAI Jandira;</li>
       <li>🧠 "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill</li>
     </ul>
     <div align="center">
