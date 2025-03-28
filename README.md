@@ -1,7 +1,7 @@
 
   <table>
     <tr>
-      <td><
+      <td>
             <a href="README-en.md"><img src="./assets/US_flag.png" alt="Bandeira dos EUA" width="24px"> Inglês;</a>
       </td>
     </tr>
