@@ -95,9 +95,8 @@
 <div>
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
 
- - 🤓 Studying TyperScript, Nest, PHP, NodeJS and English;
+ - 🤓 Studying Java, HTML5 semantics, CSS3 and English;
  - 🔎 My goal as a programmer is to learn and challenge myself in the field of programming, enabling me to develop and become a great programmer;
- - 💙 I love Python 🐍;
  - 🧠 "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 
 
