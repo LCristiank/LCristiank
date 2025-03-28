@@ -1,7 +1,15 @@
 
   <table>
-    <tr><td><a href="README-en.md"><img src="./assets/US_flag.png" alt="Bandeira dos EUA" width="24px"> Inglês;</a></td></tr>
-    <tr><td><a href="https://github.com/LCristiank"><img src="./assets/Brazil_flag.png" alt="Bandeira do Brasil" width="24px"> Português;</a></td></tr>
+    <tr>
+      <td><
+            a href="README-en.md"><img src="./assets/US_flag.png" alt="Bandeira dos EUA" width="24px"> Inglês;</a>
+      </td>
+    </tr>
+    <tr> 
+      <td>
+        <a href="https://github.com/LCristiank"><img src="./assets/Brazil_flag.png" alt="Bandeira do Brasil" width="24px"> Português;</a>
+      </td>
+    </tr>
   </table>
 
   <header>
@@ -70,7 +78,7 @@
   <div>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
     <ul>
-      <li>🤓 Estudando Java, HTML, CSS e inglês;</li>
+      <li>🤓 Estudando Java, Semântica HTML5, CSS3 e inglês;</li>
       <li>💻 Cursando Desenvolvimento de Sistema no SENAI Jandira;</li>
       <li>🧠 "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill</li>
     </ul>
